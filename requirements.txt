@@ -1,0 +1,33 @@
+# API and Core Server
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+httpx
+
+# Data and ML
+pandas
+numpy
+scikit-learn
+lightgbm
+shap
+
+# Streaming and Cache
+confluent-kafka
+redis
+
+# Contextual Agent / Explanability
+openai
+groq
+
+# Observability
+prometheus-client
+
+# Dashboard
+streamlit
+plotly
+requests
+
+# Testing
+pytest
+pytest-asyncio
